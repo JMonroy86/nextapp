@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { FC } from "react";
 import { ActiveLink } from "./ActiveLink";
-import styles from "./NavBar.module.css";
+import styles from './Navbar.module.css';
 
 
 interface Item {
